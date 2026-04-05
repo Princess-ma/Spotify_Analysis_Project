@@ -24,7 +24,6 @@
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 - [Tech Stack](#tech-stack)
-- [How to Run](#how-to-run)
 - [Column Reference](#column-reference)
 
 ---
@@ -270,19 +269,31 @@ Google Colab (execution environment)
 > **Dataset Confidence Check:** A custom heuristic applied to the dataset returned a **70.0% confidence** that it is a real-world dataset, validating that the conclusions and recommendations drawn from this project can be applied in real-world signing scenarios.
 
 The tuned XGBoost model achieved a **test R² of 0.5749**, explaining approximately 57.49% of popularity variance on unseen tracks using ten features derived from audio characteristics, genre and artist identity. 
+
 ---
 
 ## Acknowledgements
 
 - **Michael Oluwole** - Project Supervisor and Tutor
-- **Kaggle** — for the Fraud Detection-PaySim Dataset
-- **Scikit-learn team** — for developing machine learning libraries
-- **GitHub** — for the deployment platform of our Fraud Detection Project
+- **Kaggle** - for the Fraud Detection-PaySim Dataset
+- **Scikit-learn team** - for developing machine learning libraries
+- **GitHub** - for the deployment platform of our Fraud Detection Project
+
+---
+
+## References
+Seufitelli, D. B., Oliveira, G. P., Silva, M. O., Scofield, C., & Moro, M. M. (2023). Hit song science: A comprehensive survey and research directions. Journal of New Music Research, 52(1), 41–72. https://doi.org/10.1080/09298215.2023.2282999
+
+Sebastian, N., Mayer, F., Reisz, N., Aulbach, R., Anke, L. T., & Thurner, S. (2024). Beyond beats: A recipe to song popularity? A machine learning approach. arXiv. https://arxiv.org/abs/2403.12079
+
+---
+
+**Notebook Link**: Click on [Spotify Analysis](https://colab.research.google.com/drive/1NE0g5jFSaH1oyJvBSsFz_9s9WuEDt0j8?usp=sharing) to sccess the notebook containing the analysis and findings.
 
 ---
 
 **License:** Apache License 2.0
-**Copyright:** © 2026 Princess Emenari & Samuel Adewunmi Spotify Analysis Project.
+**Copyright:** © 2026 Princess Emenari & Samuel Adewunmi Spotify Analysis Project
 
 <div align="center">
 
