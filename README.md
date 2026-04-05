@@ -269,4 +269,23 @@ Google Colab (execution environment)
 
 > **Dataset Confidence Check:** A custom heuristic applied to the dataset returned a **70.0% confidence** that it is a real-world dataset, validating that the conclusions and recommendations drawn from this project can be applied in real-world signing scenarios.
 
-The tuned XGBoost model achieved a **test R² of 0.5749**, explaining approximately 57.49% of popularity variance on unseen tracks using ten features derived from audio characteristics, genre and artist identity.
+The tuned XGBoost model achieved a **test R² of 0.5749**, explaining approximately 57.49% of popularity variance on unseen tracks using ten features derived from audio characteristics, genre and artist identity. 
+---
+
+## Acknowledgements
+
+- **Michael Oluwole** - Project Supervisor and Tutor
+- **Kaggle** — for the Fraud Detection-PaySim Dataset
+- **Scikit-learn team** — for developing machine learning libraries
+- **GitHub** — for the deployment platform of our Fraud Detection Project
+
+---
+
+**License:** Apache License 2.0
+**Copyright:** © 2026 Princess Emenari & Samuel Adewunmi Spotify Analysis Project.
+
+<div align="center">
+
+*Built with precision. Validated with evidence.*
+
+</div>
