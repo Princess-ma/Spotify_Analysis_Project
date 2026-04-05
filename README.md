@@ -41,7 +41,7 @@ The central question driving every stage of this analysis is: **what kind of mus
 
 | Name | Email | GitHub | Role |
 |---|---|---|---|
-| **Princess Chiamaka Emenari** | princessemenari2@gmail.com | [Github](https://github.com/Princess-ma) | Team Lead |
+| **PRINCESS CHIAMAKA EMENARI** | princessemenari2@gmail.com | [Github](https://github.com/Princess-ma) | ***Team Lead*** |
 | **Samuel Adewumi** | adewunmisamuel584@gmail.com | [Github](https://github.com/adewunmisamuel584-dev) | Team Member |
 
 ---
