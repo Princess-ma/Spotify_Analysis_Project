@@ -1,6 +1,13 @@
 # Spotify Analysis Capstone Project
 ### What Music Is Worth Signing? An Exploratory Analysis Backed by Regression Models
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.0%2B-orange?style=flat-square&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-150458?style=flat-square&logo=pandas)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
+
 ---
 
 ## Table of Contents
