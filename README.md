@@ -275,9 +275,9 @@ The tuned XGBoost model achieved a **test R² of 0.5749**, explaining approximat
 ## Acknowledgements
 
 - **Michael Oluwole** - Project Supervisor and Tutor
-- **Kaggle** - for the Fraud Detection-PaySim Dataset
+- **Kaggle** - for the Spotify Dataset
 - **Scikit-learn team** - for developing machine learning libraries
-- **GitHub** - for the deployment platform of our Fraud Detection Project
+- **GitHub** - for the deployment platform of our Spotify Project
 
 ---
 
